@@ -1,23 +1,29 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+# Hi there 👋 I'm Yi
+
+- 🎓 Aspiring Data Scientist & Physicist, passionate about **AI for Science** — applying machine learning to accelerate discovery in physics, environmental science, and beyond.  
+- 🔭 I’m currently working on projects in data analysis, computer vision, and predictive modeling, with a strong focus on connecting **scientific problems with AI solutions**.  
+- 🌱 I’m currently learning **Diffusion Models**, **Large Language Model (LLM) Transformer Architectures**, and **Reinforcement Learning algorithms** such as **GRPO**.  
+- 💬 Ask me about AI for science, machine learning pipelines, model evaluation, and turning research problems into ML solutions.  
+- 📫 How to reach me: yihphysics at gmail.com  
+- ⚡ Fun fact: I bridge my background in **theoretical physics** with modern **AI methods** to tackle complex scientific challenges.  
+
+---
+
+## 🛠 Tech Stack  
+
+**Programming:** Python, Julia, Bash, SQL  
+**ML/DL Frameworks:** PyTorch, TensorFlow, Scikit-learn, FastAPI, Flask, Streamlit  
+**Databases:** PostgreSQL, MySQL, MongoDB  
+**Data/Cloud Tools:** PySpark, Tableau, AWS, GCP, Docker, Kubernetes  
+**ML Techniques:**  
+- CNNs, Ensemble Learning, Transformer LLMs, Diffusion Models, Reinforcement Learning (GRPO)  
+- EDA, Feature Engineering, Clustering, Dimensionality Reduction
 
 
-<!-- TO DO: add more details about me later -->
+---
 
-<!--
-**yiihuang/yiihuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 Currently Learning  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Diffusion Models** → generative modeling for scientific and real-world data.  
+- **Large Language Model (LLM) Transformer Architectures** → attention-based models powering AI for science, NLP, and reasoning.  
+- **Reinforcement Learning (RL) Algorithms, especially GRPO** → aligning AI systems for better decision-making and adaptive scientific exploration.  
