@@ -18,12 +18,3 @@
 **ML Techniques:**  
 - CNNs, Ensemble Learning, Transformer LLMs, Diffusion Models, Reinforcement Learning (GRPO)  
 - EDA, Feature Engineering, Clustering, Dimensionality Reduction
-
-
----
-
-## 📚 Currently Learning  
-
-- **Diffusion Models** → generative modeling for scientific and real-world data.  
-- **Large Language Model (LLM) Transformer Architectures** → attention-based models powering AI for science, NLP, and reasoning.  
-- **Reinforcement Learning (RL) Algorithms, especially GRPO** → aligning AI systems for better decision-making and adaptive scientific exploration.  
