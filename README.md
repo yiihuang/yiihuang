@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Yi
 
-- 🎓 Aspiring Data Scientist & Physicist, passionate about **AI for Science** — applying machine learning to accelerate discovery in physics, environmental science, and beyond.  
+- 🎓 Aspiring Data Scientist & Physicist, passionate about **AI for Science** — applying machine learning to accelerate discovery in physics, biology, chemistry, material science, and beyond.  
 - 🔭 I’m currently working on projects in data analysis, computer vision, and predictive modeling, with a strong focus on connecting **scientific problems with AI solutions**.  
 - 🌱 I’m currently learning **Diffusion Models**, **Large Language Model (LLM) Transformer Architectures**, and **Reinforcement Learning algorithms** such as **GRPO**.  
 - 💬 Ask me about AI for science, machine learning pipelines, model evaluation, and turning research problems into ML solutions.  
